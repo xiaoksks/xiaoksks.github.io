@@ -1,0 +1,14 @@
+.ant-layout-sider{
+    position:absolute!important;
+    height: 100%;
+}
+
+.ant-layout{
+    margin-left: 220px;
+}
+.ant-layout-has-sider{
+    margin-left: 0px!important;
+}
+.ant-layout-content{
+    min-height:83%!important;
+}
